@@ -1,0 +1,154 @@
+Only file argument has been passed
+Given path of the fileTransactions.txt
+--------
+---------------
+Sending data was a success from the client side for-12 1 a c 12
+
+Ackgmnt from server is---Withdrawal is success
+total time taken for all the txs that are executed till now---0.000137693
+-----
+Sending data was a success from the client side for-11 1 a c 12
+
+Ackgmnt from server is---Withdrawal is success
+total time taken for all the txs that are executed till now---0.00114668
+-----
+Sending data was a success from the client side for-10 1 a c 12
+
+Ackgmnt from server is---Withdrawal is success
+total time taken for all the txs that are executed till now---0.00163384
+-----
+Sending data was a success from the client side for-13 1 a c 12
+
+Ackgmnt from server is---Withdrawal is success
+total time taken for all the txs that are executed till now---0.00205715
+-----
+Sending data was a success from the client side for-15 1 a c 12
+
+Ackgmnt from server is---Withdrawal is success
+total time taken for all the txs that are executed till now---0.00238208
+-----
+Sending data was a success from the client side for-14 1 a d 12100
+
+Ackgmnt from server is---Deposit is successful
+total time taken for all the txs that are executed till now---0.00266212
+-----
+Sending data was a success from the client side for-16 2 b c 200
+
+Ackgmnt from server is---Insufficient balance
+total time taken for all the txs that are executed till now---0.00278675
+-----
+Sending data was a success from the client side for-17 3 c 12000
+
+Ackgmnt from server is---Tx not supported
+total time taken for all the txs that are executed till now---0.00336451
+-----
+Sending data was a success from the client side for-18 3 c d 100
+
+Ackgmnt from server is---Deposit is successful
+total time taken for all the txs that are executed till now---0.00405293
+-----
+Sending data was a success from the client side for-19 4 d c 640
+
+Ackgmnt from server is---Insufficient balance
+total time taken for all the txs that are executed till now---0.00419014
+-----
+Sending data was a success from the client side for-20 1 a c 12
+
+Ackgmnt from server is---Withdrawal is success
+total time taken for all the txs that are executed till now---0.00459215
+-----
+Sending data was a success from the client side for-23 1 a c 12
+
+Ackgmnt from server is---Withdrawal is success
+total time taken for all the txs that are executed till now---0.0049149
+-----
+Sending data was a success from the client side for-21 1 a c 12
+
+Ackgmnt from server is---Withdrawal is success
+total time taken for all the txs that are executed till now---0.00543019
+-----
+Sending data was a success from the client side for-24 1 a c 12
+
+Ackgmnt from server is---Withdrawal is success
+total time taken for all the txs that are executed till now---0.00572889
+-----
+Sending data was a success from the client side for-26 1 a c 12
+
+Ackgmnt from server is---Withdrawal is success
+total time taken for all the txs that are executed till now---0.00610328
+-----
+Sending data was a success from the client side for-25 1 a d 12100
+
+Ackgmnt from server is---Deposit is successful
+total time taken for all the txs that are executed till now---0.00701821
+-----
+Sending data was a success from the client side for-27 1 a c 12
+
+Ackgmnt from server is---Withdrawal is success
+total time taken for all the txs that are executed till now---0.00726234
+-----
+Sending data was a success from the client side for-28 1 a c 12
+
+Ackgmnt from server is---Withdrawal is success
+total time taken for all the txs that are executed till now---0.00747483
+-----
+Sending data was a success from the client side for-29 1 a c 12
+
+Ackgmnt from server is---Withdrawal is success
+total time taken for all the txs that are executed till now---0.00782036
+-----
+Sending data was a success from the client side for-31 1 a c 12
+
+Ackgmnt from server is---Withdrawal is success
+total time taken for all the txs that are executed till now---0.0080309
+-----
+Sending data was a success from the client side for-32 2 b c 200
+
+Ackgmnt from server is---Insufficient balance
+total time taken for all the txs that are executed till now---0.00893972
+-----
+Sending data was a success from the client side for-35 4 d c 640
+
+Ackgmnt from server is---Insufficient balance
+total time taken for all the txs that are executed till now---0.00911043
+-----
+Sending data was a success from the client side for-33 3 c 12000
+
+Ackgmnt from server is---Tx not supported
+total time taken for all the txs that are executed till now---0.0094487
+-----
+Sending data was a success from the client side for-34 3 c d 100
+
+Ackgmnt from server is---Deposit is successful
+total time taken for all the txs that are executed till now---0.00999792
+-----
+Sending data was a success from the client side for-30 1 a d 12100
+
+Ackgmnt from server is---Deposit is successful
+total time taken for all the txs that are executed till now---0.0124232
+-----
+Sending data was a success from the client side for-38 1 a c 12
+
+Ackgmnt from server is---Withdrawal is success
+total time taken for all the txs that are executed till now---0.0128417
+-----
+Sending data was a success from the client side for-36 1 a c 12
+
+Ackgmnt from server is---Withdrawal is success
+total time taken for all the txs that are executed till now---0.0131282
+-----
+Sending data was a success from the client side for-39 1 a c 12
+
+Ackgmnt from server is---Withdrawal is success
+total time taken for all the txs that are executed till now---0.0133594
+-----
+Sending data was a success from the client side for-37 1 a c 12
+
+Ackgmnt from server is---Withdrawal is success
+total time taken for all the txs that are executed till now---0.0138376
+-----
+Sending data was a success from the client side for-40 1 a d 12100
+
+Ackgmnt from server is---Deposit is successful
+total time taken for all the txs that are executed till now---0.0139592
+-----

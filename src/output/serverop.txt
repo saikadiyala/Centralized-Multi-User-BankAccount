@@ -1,0 +1,389 @@
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+----------------
+Data received from the client is - 11 1 a c 12
+
+----Locking the CS Part
+Do withdrawal
+Withdrawal successful
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 12 1 a c 12
+
+----Locking the CS Part
+Do withdrawal
+Withdrawal successful
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 10 1 a c 12
+
+----Locking the CS Part
+Do withdrawal
+Withdrawal successful
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+----------------
+Data received from the client is - 13 1 a c 12
+
+----Locking the CS Part
+Do withdrawal
+Withdrawal successful
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 15 1 a c 12
+
+----Locking the CS Part
+Do withdrawal
+Withdrawal successful
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 14 1 a d 12100
+
+----Locking the CS Part
+Deposit should be done
+Deposit success
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 16 2 b c 200
+
+----Locking the CS Part
+Do withdrawal
+Insufficient balance
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 17 3 c 12000
+
+----Locking the CS Part
+DUde wrong tx
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 18 3 c d 100
+
+----Locking the CS Part
+Deposit should be done
+Deposit success
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+----------------
+Data received from the client is - 19 4 d c 640
+
+----Locking the CS Part
+Do withdrawal
+Insufficient balance
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+----------------
+Data received from the client is - 20 1 a c 12
+
+----Locking the CS Part
+Do withdrawal
+Withdrawal successful
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 21 1 a c 12
+
+----Locking the CS Part
+Do withdrawal
+Withdrawal successful
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 23 1 a c 12
+
+----Locking the CS Part
+Do withdrawal
+Withdrawal successful
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 24 1 a c 12
+
+----Locking the CS Part
+Do withdrawal
+Withdrawal successful
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 25 1 a d 12100
+
+----Locking the CS Part
+Deposit should be done
+Deposit success
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 26 1 a c 12
+
+----Locking the CS Part
+Do withdrawal
+Withdrawal successful
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+----------------
+Data received from the client is - 27 1 a c 12
+
+----Locking the CS Part
+Do withdrawal
+Withdrawal successful
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 28 1 a c 12
+
+----Locking the CS Part
+Do withdrawal
+Withdrawal successful
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 29 1 a c 12
+
+----Locking the CS Part
+Do withdrawal
+Withdrawal successful
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 30 1 a d 12100
+
+----Locking the CS Part
+Deposit should be done
+Deposit success
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 31 1 a c 12
+
+----Locking the CS Part
+Do withdrawal
+Withdrawal successful
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 32 2 b c 200
+
+----Locking the CS Part
+Do withdrawal
+Insufficient balance
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+Connected
+Waiting for connectionss...
+----------------
+Data received from the client is - 34 3 c d 100
+
+----Locking the CS Part
+Deposit should be done
+Deposit success
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 33 3 c 12000
+
+----Locking the CS Part
+DUde wrong tx
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 35 4 d c 640
+
+----Locking the CS Part
+Do withdrawal
+Insufficient balance
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 38 1 a c 12
+
+----Locking the CS Part
+Do withdrawal
+Withdrawal successful
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 37 1 a c 12
+
+----Locking the CS Part
+Do withdrawal
+Withdrawal successful
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 36 1 a c 12
+
+----Locking the CS Part
+Do withdrawal
+Withdrawal successful
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 39 1 a c 12
+
+----Locking the CS Part
+Do withdrawal
+Withdrawal successful
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
+----------------
+Data received from the client is - 40 1 a d 12100
+
+----Locking the CS Part
+Deposit should be done
+Deposit success
+Sending an info to the client
+Unlocked the CS part------
+closing connection
+Press ctrl+c to exit from the server if you are done with it
+---------------------
